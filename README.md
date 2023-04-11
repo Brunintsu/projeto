@@ -1,1 +1,2 @@
 # projeto
+theme:minima
